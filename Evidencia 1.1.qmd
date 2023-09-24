@@ -1,0 +1,488 @@
+---
+title: "Evidencia 1. Redes bayesianas: caso discreto"
+format: html
+
+author: 
+- "Mayra Sarahí de Luna Castillo A01635774"
+- "Juan Manuel Hernández Solano A00572208"
+- "Alejandra Velasco Zárate A01635453"
+- "José Antonio Juárez Pacheco A0057218"
+- "José Carlos Yamuni Contreras A01740285"
+
+date: "08/16/2023"
+execute: 
+  cache: true
+---
+
+## Abstract
+
+El sistema de transporte en México desempeña un papel crucial en la vida cotidiana y el desarrollo económico del país. Por ello es importante conocer la opinión de los usuarios para saber y trabajar en las áreas de mejora. En el proyecto "Redes Bayesianas: Caso discreto" se utilizó una base de datos que recopila información sobre los datos personales de los usuarios, los tiempos de viaje, el nivel de satisfacción y otros factores clave relacionados con la movilidad. Para este proyecto, primero se hizo un preprocesamiento de los datos para limpiar la base, se crearon dos Grafos Acíclicos Dirigidos (DAG) con las variables más importantes, se evaluó el rendimiento de cada una para seleccionar la que se ajustaba mejor a los datos y se entrenaron los datos con la DAG seleccionada. Gracias a lo anterior se pudo conocer las probabilidades de las "queries" (hipótesis) asignadas, lo que nos da un panorama amplio del uso y la eficiencia del transporte en México.
+
+## Introducción
+
+Las redes bayesianas proporcionan una representación visual para un conjunto de variables aleatorias y para las relaciones que hay entre ellas. La estructura de estas redes permiten especificar la función de probabilidad conjunta de las variables como el producto de funciones de probabilidad condicionada. La principal diferencia de estos modelos se encuentra en sus arcos ya que son dirigidos y representan dependencia condicional entre variables. El objetivo de este trabajo es utilizar las redes bayesianas para hacer inferencias sobre algunas hipótesis y obtener la probabilidad de que sean ciertas o no, con el fin de conocer las relaciones y dependencias que hay entre variables y/o eventos.
+
+## Marco Teórico
+
+Las redes bayesianas, también conocidas como redes causales probabilísticas, son herramientas estadísticas que representan un conjunto de incertidumbres asociadas sobre la base de las relaciones de independencia condicional que se establecen entre ellas. Son grafos acíclicos dirigidos en el que cada nodo representa una variable aleatoria que tiene asociada una función de probabilidad condicional (Santiesteban, 2012).
+
+El modelo probabilístico es descrito por un grafo acíclico dirigida (DAG), donde los vértices de la gráfica que representan las variables se denominan nodos. Estos nodos se representan como círculos que dentro contienen el nombre de la variable y las conexiones entre nodos se denominan arcos. Estos arcos tienen terminación de flecha, lo que indica la dependencia entre variables. El nodo donde se origina el arco se llama padre, mientras que el nodo donde termina el arco se llama hijos. Los nodos a los que se puede llegar desde otros nodos se llaman descendientes. Los nodos que conducen una ruta a un nodo específico se llaman ancestros. El punto principal de las Redes Bayesianas es permitir que se realice una inferencia probabilística.
+
+```{r}
+#| echo: false
+library(bnlearn)
+dag<-empty.graph(nodes = c("A", "B", "C", "D", "E"))
+arc.set<-matrix(c("A", "C",
+                  "B", "C",
+                  "B", "D",
+                  "C", "E"), byrow = TRUE, ncol = 2,
+                dimnames = list(NULL, c("from", "to")))
+arcs(dag)<-arc.set
+graphviz.plot(dag, main = "DAG Ejemplo");
+```
+
+En esta DAG los nodos padre son A y B, el nodo hijo es el E. C y E son descendientes de A y A y C son ancestros de E. En una red bayesiana no hay bucles ni ciclos, ya que ningún nodo puede ser su propio antepasado o descendiente.
+
+### Distribuciones de probabilidad conjunta
+
+La probabilidad conjunta es la probabilidad de que una serie de eventos sucedan simultáneamente. La probabilidad conjunta de varias variables se puede calcular a partir del producto de probabilidades indivudales de los nodos.
+
+$$
+P(X_1,...,X_n) = \Pi_{i=1}^n P(X_i \: | \: parents(X_i))
+$$\
+En el ejemplo propuesto , la distribución conjunta de probabilidad es:
+
+$$
+P(A,B,C,D,E)=P(A)P(B)P(C \: | \: A,B)P(D \: |\: B)P(E \: | \: C)
+$$\
+Si un nodo no tiene un padre, como el nodo A, su distribución de probabilidad se describe como incondicional. De lo contrario, la distribución de probabilidad local del nodo está condicionada a otros nodos (Wolf et al., 2019).
+
+### Teorema de Bayes
+
+El Teorema de Bayes parte de una situación en la que es posible conocer las probabilidades de que ocurran una serie de sucesos $A_i$ . Se tiene un evento $B$ cuya ocurrencia proporciona información, ya que las probabilidades de que ocurra $B$ son distintas si el suceso $A_i$ sucede.\
+
+$$
+P(A \: | \: B) = \frac{P(B \: | \: A)P(A)}{P(B)}
+$$
+
+Donde $P(A)$ es la probabilidad a priori, $P(B \: | \: A)$ es la probabilidad condicional, $P(B)$ es la probabilidad total y el resultado $P(A\: | \: B)$ la probabilidad a posteriori.
+
+Esta es la teoría detrás de las redes bayesianas.
+
+### Inferencia
+
+A partir de una red ya construida, y dados los valores concretos de algunas variables de una instancia, podrían tratar de estimarse los valores de otras variables de la misma instancia aplicando razonamiento probabilístico. El razonamiento probabilístico sobre las redes bayesianas consiste en propagar los efectos de las evidencias (variables conocidas) a través de la red para conocer las probabilidades a posteriori de las variables desconocidas. De esta manera se puede determinar un valor estimado para dichas variables en función de los valores de probabilidad obtenidos (Santiesteban, 2012).
+
+Con la metodología se puede ver la creación y aplicación de la DAG con ciertos datos para responder unas preguntas.
+
+## Metodología
+
+### 1. Lectura y análisis de los datos
+
+Importación de librerías necesarias para redes bayesianas.
+
+```{r}
+library(bnlearn)
+```
+
+```{r}
+#if (!requireNamespace("BiocManager", quietly = TRUE))
+#  install.packages("BiocManager")
+#BiocManager::install()
+#BiocManager::install(c("graph", "Rgraphviz"))
+```
+
+Lectura de la base de datos final, con las variables necesarias para responder las queries establecidas.
+
+```{r}
+data <- read.csv("/Users/tonitojuarez/Documents/RStudio/clean_data_evidencia1.csv")
+head(data)
+```
+
+Dimensión de la base de datos.
+
+```{r}
+dim(data)
+```
+
+Verificar datos faltantes
+
+```{r}
+sum(is.na(data))
+```
+
+Conversión de variables a factor para el método MLE
+
+```{r}
+data$Residencia<-as.factor(data$Residencia)
+data$Sexo<-as.factor(data$Sexo)
+data$Edad<-as.factor(data$Edad)
+data$Educacion<-as.factor(data$Educacion)
+data$ing_fam<-as.factor(data$ing_fam)
+data$Transporte<-as.factor(data$Transporte)
+data$Eficiencia<-as.factor(data$Eficiencia)
+data$Seguridad<-as.factor(data$Seguridad)
+data$Ocupación<-as.factor(data$Ocupación)
+```
+
+### 2. Creación de las DAGs
+
+#### DAG 1
+
+```{r}
+DAG<-empty.graph(nodes = c("Edad", "Sexo", "ing_fam", "Educacion", "Ocupación", "Residencia", "Transporte", "Eficiencia", "Seguridad"))
+```
+
+Creación de relación y nodo entre variables
+
+```{r}
+arc.set<-matrix(c("Edad", "Educacion",
+                  "Sexo", "Educacion",
+                  "ing_fam", "Educacion",
+                  "Educacion", "Ocupación",
+                  "Educacion", "Residencia",
+                  "Ocupación", "Transporte",
+                  "Residencia", "Transporte",
+                  "Transporte", "Eficiencia",
+                  "Transporte", "Seguridad"), byrow = TRUE, ncol = 2,
+                dimnames = list(NULL, c("from", "to")))
+arc.set
+```
+
+Implementación de los nodos a la DAG 1
+
+```{r}
+arcs(DAG)<-arc.set
+DAG
+```
+
+Visualización de la DAG 1
+
+```{r}
+graphviz.plot(DAG, main = "DAG 1")
+```
+
+La primera DAG propuesta consta de 3 nodos padres: 'Edad', 'Sexo' e 'Ingreso familiar', la razón de esto es que edad y sexo son características íntrinsicas del ser humano, es decir, hacen referencia a la naturaleza del ser humano, por lo que no dependen de ningún factor externo fuera de los atributos humanos. El ingreso familiar se consideró como nodo padre porque por razones estructurales de la sociedad y la economía, la educación depende del ingreso familiar. Las familias con ingresos más altos generalmente tienen más recursos disponibles para invertir en la educación de calidad de sus hijos. Por otro lado, las familias de bajos ingresos pueden tener dificultades para costear estos recursos, esto se debe a las desigualdades socioeconómicas y las limitaciones de acceso a empleos bien remunerados y esto puede perpetuar un ciclo intergeneracional de desventaja (Torres, 2020). La educación juega un papel crucial en la determinación de las oportunidades laborales y el éxito profesional de una persona, es decir, la ocupación laboral del individuo. Para ascender en la jerarquía laboral y acceder a roles de mayor responsabilidad y remuneración, a menudo se requiere una educación continua y el desarrollo de habilidades adicionales. Las personas con educación superior pueden tener más oportunidades de avanzar en sus carreras que los que no cuentan con educación ('La educación en México y su influencia en la ocupación', s.f.). Por otro lado, tanto la residencia como la ocupación que se tiene pueden influir en el tipo de transporte que se utiliza diariamente, ya se por distintos factores como: la distancia al trabajo, los costos y valores personales pueden influir al momento de optar por vehículos privados, transporte público, bicicletas u otras alternativas. Por último, la eficiencia y seguridad del transporte dependen del transporte más utilizado y preferido, ya que estos atributos están directamente relacionados a el medio de transporte. Bajo estos argumentos se obtuvo la primera propuesta para la DAG.
+
+Estimación de parámetros para la DAG 1
+
+```{r}
+bn.mle<-bn.fit(DAG, data = data, method = "mle")
+```
+
+Comprobación del método de máxima verosimilitud (MLE) con probabilidad condicional
+
+```{r}
+bn.mle$Educacion
+```
+
+Estructura de la DAG 1
+
+```{r}
+arc.strength(DAG, data = data, criterion = "x2")
+```
+
+#### DAG 2
+
+```{r}
+DAG2<-empty.graph(nodes = c("Edad", "Sexo", "Educacion", "Ocupación","ing_fam", "Residencia", "Eficiencia", "Seguridad","Transporte"))
+```
+
+Creación de relación y nodo entre variables de la DAG 2
+
+```{r}
+arc.set2<-matrix(c("Edad", "Educacion",
+                  "Sexo", "Educacion",
+                  "Educacion", "Ocupación",
+                  "Educacion", "Residencia",
+                  "Ocupación", "ing_fam",
+                  "Residencia", "ing_fam",
+                  "Residencia", "Eficiencia",
+                  "Eficiencia", "Seguridad",
+                  "Eficiencia", "Transporte"), byrow = TRUE, ncol = 2,
+                dimnames = list(NULL, c("from", "to")))
+arc.set2
+```
+
+Implementación de los nodos a la DAG 2
+
+```{r}
+arcs(DAG2)<-arc.set2
+DAG2
+```
+
+Visualización de la DAG 2
+
+```{r}
+graphviz.plot(DAG2, main = "DAG 2")
+```
+
+Los cambios realizados en la segunda propuesta de la DAG fue que el nodo de 'Ingreso familiar' ya no es nodo padre, sino nodo descendiente de 'Ocupación' y 'Residencia'. Este cambio fue porque el ingreso familiar tiende a depender de la ocupación y la residencia debido a las interacciones complejas entre factores económicos, sociales y geográficos, en primer lugar porque la ocupación suele ser la primera fuente de ingreso debido a las renumeraciones en el mercado laboral. En segundo, la residencia puede influir en el ingreso debido a factores como el costo de vida, las oportunidades laborales disponibles en un área geográfica y la presencia de industrias específicas (Agualongo y Garcés, 2020). Otro cambio fue que la eficiencia del transporte público y privado depende de la residencia, ya que la movilización o el trasporte público es una de los sectores gubernamentales que más financiamiento y planeación requieren. Depende de la zona geográfica y las características de la residencia, es el presupuesto que se tendrá para la movilización y planeación de calles, de la vía pública y de los medios de transporte. Todo esto recae directamente en le eficiencia del transporte público y privado (Calvillo y Moncada, 2008). El último cambio fue que la seguridad y el transporte más utilizado/preferido depende de la eficiencia, la razón de este cambio va mucho de la mano con la razón de que la eficiencia depende de la residencia. La eficiencia del transporte está relacionada con la rapidez y la comodidad con la que las personas pueden desplazarse de un lugar a otro. Si un medio de transporte es eficiente, es más probable que las personas lo prefieran, ya que les permite ahorrar tiempo y viajar de manera más cómoda. Así mismo, un sistema de transporte eficiente suele estar respaldado por una planificación cuidadosa de rutas y horarios. Esto puede conducir a rutas más seguras que evitan áreas peligrosas o congestionadas, reduciendo así el riesgo de accidentes y situaciones peligrosas. Es por estas razones, que la eficiencia esta directamente ligada a la elección de transporte y la seguridad de la misma.
+
+Estimación de parámetros para la DAG 2
+
+```{r}
+bn.mle2<-bn.fit(DAG2, data = data, method = "mle")
+```
+
+Comprobación del método de máxima verosimilitud (MLE) con probabilidad condicional
+
+```{r}
+bn.mle2$Educacion
+```
+
+Estructura de la DAG 2
+
+```{r}
+arc.strength(DAG2, data = data, criterion = "x2")
+```
+
+### 3. Evaluación del rendimiento de las DAGs
+
+Criterios basado en la verosimilitud para probar que tan bueno son los DAGs
+
+#### Bayesian Information Criterion (BIC)
+
+**DAG 1**
+
+```{r}
+score(DAG, data = data, type = "bic")
+```
+
+**DAG 2**
+
+```{r}
+score(DAG2, data = data, type = "bic")
+```
+
+Mientras más grande sea el BIC, mejor será el modelo. DAGs con scores más altos ajustan mejor a los datos.
+
+#### Akaike Information Criterion (AIC)
+
+**DAG 1**
+
+```{r}
+score(DAG, data = data, type = "aic")
+```
+
+**DAG 2**
+
+```{r}
+score(DAG2, data = data, type = "aic")
+```
+
+Después de analizar los resultados de los métodos de rendimiento BIC y AIC para las 2 redes bayesianas propuestas anteriormente, se puede observar que ambos valores de las métricas son mayores en la segunda DAG. Esto significa que la DAG 2 ajusta de una mejor manera los datos del trabajo y permiten tener una mejor aproximación a las probabilidades e hipótesis planteadas. Esta DAG número 2 se va a comparar con la DAG propuesta por Hill-Climbing para ver cual es la mejor y así poder hacer los queries.
+
+### 4. Optimización de la DAG seleccionada con Hill-Climbing (HC)
+
+```{r}
+best_DAG<-hc(data)
+modelstring(best_DAG)
+```
+
+Visualización de la nueva DAG
+
+```{r}
+graphviz.plot(best_DAG, main = "DAG Propuesta HillClimbing")
+```
+
+Esta DAG propuesta por la función Hill-Climbing no tiene mucho sentido ya que se pueden observar nodos en los que la relación entre variables no llegan a ser coherentes. Por un lado, decir que la edad depende de la educación sería una afirmación ilógica porque la edad es una característica intrínseca y natural del tiempo transcurrido desde el nacimiento de una persona, mientras que la educación es un proceso que implica la adquisición de conocimientos, habilidades y experiencias a lo largo de la vida. Estas 2 nociones son conceptos diferentes y no están vinculadas en términos de causalidad directa. Por otro lado, establecer que la ocupación depende del ingreso familiar podría ser incoherente porque son 2 conceptos diferentes que generalmente no están directamente relacionados en términos de causa y efecto. La ocupación se refiere al trabajo, profesión o actividad que una persona realiza para ganarse la vida, mientras que el ingreso familiar se refiere a la cantidad de dinero que una familia gana de diversas fuentes. Si bien el ingreso familiar puede influir en las decisiones de carrera de un individuo, no determina completamente la ocupación que elijan. Es por estas 2 razones, que se asenta la conclusión que la DAG propuesta de Hill-Climbing no tiene fundamentos lógicos y racionales (Benno, 1985).
+
+### 5. Evaluación del rendimiento de la óptima DAG
+
+#### Bayesian Information Criterion (BIC)
+
+```{r}
+score(best_DAG, data = data, type = "bic")
+```
+
+#### Akaike Information Criterion (AIC)
+
+```{r}
+score(best_DAG, data = data, type = "aic")
+```
+
+Se puede observar que en la métrica AIC el resultado de la DAG número 2 es ligeramente mejor que el de la DAG propuesta por la función hill-climbing. Aún así, la función hill-climbing tiene un resultado mejor en la métrica BIC con respecto a la DAG número 2 propuesta al inicio. Ambos DAG son buenos, sin embargo, la métrica BIC suele tener más peso que la métrica AIC. Es por eso, que la DAG propuesta por la función hill-climbing es una mejor estructura.
+
+Por la misma razón de que la DAG propuesta por la función de Hill-Climbing carece de razonamiento lógico y porque las métricas BIC y AIC de ambas DAGs tienen valores cercanos, se utilizará la DAG 2 para realizar las preguntas de hipótesis.
+
+## Aplicación
+
+### 1. Impresión de diccionario
+
+Se utiliza el diccionario para tener las variables como referencia para resolver las queries.
+
+```{r}
+unique(data$Residencia)
+unique(data$Sexo)
+unique(data$Edad)
+unique(data$Educacion)
+unique(data$ing_fam)
+unique(data$Transporte)
+unique(data$Eficiencia)
+unique(data$Seguridad)
+unique(data$Ocupación)
+```
+
+Entrenar la DAG con los datos para responder las queries.
+
+```{r}
+bn<-bn.fit(DAG2, data = data)
+```
+
+#### 1.- Queremos saber si el transporte público en ciudades grandes es más eficiente que en ciudades pequeñas.
+
+Probabilidad de eficiencia transporte público para ciudades grandes:
+
+```{r}
+cpquery(bn, event = (Eficiencia == "eficiente") , evidence = (Residencia == "grande"), n = 10^6)
+```
+
+Probabilidad de eficiencia transporte público para ciudades pequeñas:
+
+```{r}
+cpquery(bn, event = (Eficiencia == "eficiente") , evidence = (Residencia == "pequeño"), n = 10^6)
+```
+
+Se puede ver que hay más posibilidades de que el transporte público sea más eficiente en localidades pequeñas comparada a localidades grandes.
+
+#### 2.- ¿Qué probabilidad hay de que una persona viaje en tren, dado que sea vendedor ambulante?
+
+En este ejemplo se utiliza la variable de tren urbano porque este es más concurrido que el tren ferrocarril:
+
+```{r}
+cpquery(bn, event = (Transporte == "Tren urbano (Metro)") , evidence = (Ocupación == "vendedor_ambulante"), n = 10^6)
+```
+
+La probabilidad de que una persona viaje en tren dado que es vendedor ambulante es de 7%.
+
+#### 3.- ¿Quiénes son más probables a sentirse seguros en el transporte público, los hombres con estudios universitarios o las mujeres con estudios universitarios?
+
+Probabilidad de que hombres con estudios universitarios se sientan seguros en transporte:
+
+```{r}
+cpquery(bn, event = (Seguridad == "seguro") , evidence = ((Sexo == "hombre") & (Educacion == "profesional")), n = 10^6)
+```
+
+Probabilidad de que mujeres con estudios universitarios se sientan seguros en transporte:
+
+```{r}
+cpquery(bn, event = (Seguridad == "seguro") , evidence = ((Sexo == "mujer") & (Educacion == "profesional")), n = 10^6)
+```
+
+Se puede decir que es más probable que un hombre con estudios universitarios se sienta más seguro en el transporte público que una mujer con los mismos estudios.
+
+#### 4.- ¿Cómo influye el sexo de la persona en la elección del medio de transporte más utilizado, tomando en cuenta el nivel de ingreso familiar y la eficiencia del transporte público?
+
+Primero, se debe encontrar el medio de transporte más utilizado.
+
+```{r}
+freq_table <- table(data$Transporte)
+most_common_name <- names(freq_table)[which.max(freq_table)]
+
+print(paste("El medio de transporte más utilizado es:", most_common_name))
+```
+
+Se sabe que para la pregunta 4, el automóvil es el medio de transporte más utilizado.
+
+**Generación de probabilidades para los diferentes casos que se puede presentar para hombre y mujer respectivamente**
+
+**Hombre:**
+
+Probabilidad de que el ser hombre influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es bajo y el transporte público es eficiente:
+
+```{r}
+probh1 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "bajo ingreso") & (Eficiencia == "eficiente")), evidence =  (Sexo == "hombre"), n = 10^6)
+probh1
+```
+
+Probabilidad de que el ser hombre influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es bajo y el transporte público es ineficiente:
+
+```{r}
+probh2 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "bajo ingreso") & (Eficiencia == "ineficiente")), evidence =  (Sexo == "hombre"), n = 10^6)
+probh2
+```
+
+Probabilidad de que el ser hombre influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es alto y el transporte público es eficiente:
+
+```{r}
+probh3 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "alto ingreso") & (Eficiencia == "eficiente")), evidence =  (Sexo == "hombre"), n = 10^6)
+probh3
+```
+
+Probabilidad de que el ser hombre influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es alto y el transporte público es ineficiente:
+
+```{r}
+probh4 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "alto ingreso") & (Eficiencia == "ineficiente")), evidence =  (Sexo == "hombre"), n = 10^6)
+probh4
+```
+
+**Mujer:**
+
+Probabilidad de que el ser mujer influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es bajo y el transporte público es eficiente:
+
+```{r}
+probm1 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "bajo ingreso") & (Eficiencia == "eficiente")), evidence =  (Sexo == "mujer"), n = 10^6)
+probm1
+```
+
+Probabilidad de que el ser mujer influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es bajo y el transporte público es ineficiente:
+
+```{r}
+probm2 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "bajo ingreso") & (Eficiencia == "ineficiente")), evidence =  (Sexo == "mujer"), n = 10^6)
+probm2
+```
+
+Probabilidad de que el ser mujer influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es alto y el transporte público es eficiente:
+
+```{r}
+probm3 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "alto ingreso") & (Eficiencia == "eficiente")), evidence =  (Sexo == "mujer"), n = 10^6)
+probm3
+```
+
+Probabilidad de que el ser mujer influya en la elección de automóvil como medio de transporte cuando el nivel de ingreso familiar es alto y el transporte público es ineficiente:
+
+```{r}
+probm4 <- cpquery(bn, event = ((Transporte == "Automóvil") & (ing_fam == "alto ingreso") & (Eficiencia == "ineficiente")), evidence =  (Sexo == "mujer"), n = 10^6)
+probm4
+```
+
+**Con todas las probabilidades y sus combinaciones, se hace una suma de probabilidades y así responder la pregunta**
+
+Suma probabilidad Hombre:
+
+```{r}
+probh <- probh1 + probh2 + probh3 + probh4
+probh
+```
+
+Suma probabilidad mujer:
+
+```{r}
+probm <- probm1 +probm2 + probm3 + probm4
+probm
+```
+
+Con estos resultados se puede decir que la mujer es más probable a elegir el automóvil como medio de transporte más utilizado, tomando en cuenta su nivel de ingreso familiar y la eficiencia de este transporte público. Pero como la diferencia entre probabilidades es muy pequeña, se puede inferir que el sexo no influye en la elección del transporte público dado el ingreso familiar y eficiencia.
+
+## Conclusión
+
+Este trabajo demuestra la efectividad y utilidad de las Redes Bayesianas como herramienta analítica para responder preguntas e investigar hipótesis en diversos contextos. Además, las redes bayesianas proporcionan una representación visual intuitiva de las relaciones causales entre variables, permitiendo modelar y cuantificar la incertidumbre de manera coherente. La aplicación de las Redes Bayesianas en la resolución de queries e hipótesis ha permitido un enfoque estructurado y sistemático para analizar datos complejos. Al capturar las dependencias probabilísticas entre las variables, estas redes proporcionan una forma rigurosa de evaluar el impacto de cambios en una variable sobre otras, así como de estimar la probabilidad de eventos futuros dadas las observaciones actuales. En conclusión, las redes bayesianas permiten hacer inferencias respecto al transporte público y privado en México, así como obtener un resultado de gran utilidad en la toma de decisiones.
+
+## Referencias
+
+Agualongo, D. y Garcés, A. (2020). El nivel socioeconómico como factor de influencia
+
+en temas de salud y educación. Universidad de las Fuerzas Armadas Espe. \[PDF\]
+
+Benno, S. (1985). Educación y dependencia: el papel de la educación comparada. UNESCO. \[PDF\]
+
+Calvillo, A. y Moncada, G. (2008). Eficiencia del transporte público y privado. El consumidor. \[PDF\]
+
+La educación en México y su influencia en la ocupación. (s. f.) Centro de Estudios Espinosa Yglesias. Recuperado de https://ceey.org.mx/la-educacion-en-mexico-y-su-influencia-en-la-ocupacion/
+
+Santiesteban, J. C., Pérez, d. y Hernández, C. (2012). Definici?n de Redes Bayesianas y sus aplicaciones. Revista Vinculando. https://vinculando.org/articulos/redes-bayesianas.html
+
+Torres, G. y Ayala, E. (noviembre 2020). El ingreso familiar como determinante de la asistencia escolar de los jóvenes en México. Problemas del desarrollo, 201. Recuperado de https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0301-70362020000200085
+
+Wolf et. al. (11 de marzo de 2019). Dinámica y controles de procesos-químicos. \[PDF\]
