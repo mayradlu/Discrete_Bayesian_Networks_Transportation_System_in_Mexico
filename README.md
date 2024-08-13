@@ -6,10 +6,12 @@ This project aims to analyze the transportation system in Mexico using Bayesian 
 
 **Data Preprocessing**
 Language: Python
+
 Python was used to clean and prepare the database, ensuring that the data was in a suitable format for subsequent analysis with Bayesian networks.
 
 **Modeling with Bayesian Networks**
 Language: R
+
 R was used to create Directed Acyclic Graphs (DAGs) and evaluate their performance using BIC and AIC criteria. The model that best fit the data was selected to infer probabilities and analyze dependencies between key variables.
 
 
