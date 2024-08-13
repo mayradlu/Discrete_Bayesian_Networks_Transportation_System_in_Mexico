@@ -1,0 +1,1192 @@
+Residencia,Sexo,Edad,Educacion,ing_fam,Transporte,Eficiencia,Seguridad,Ocupacion
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,vendedor_ambulante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,hombre,adulto_mayor,primaria,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+grande,hombre,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Taxi,eficiente,seguro,empleado
+pequeño,hombre,adulto_mayor,ninguno,alto ingreso,Mototaxi,eficiente,seguro,empleado
+pequeño,,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Automovil,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,hombre,adulto_joven,secundaria,alto ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Autobús foráneo,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,ninguno,bajo ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,BRT,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,preescolar,alto ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,primaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,jefe
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Motocicleta,eficiente,seguro,servidor
+grande,hombre,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,vendedor_ambulante
+pequeño,mujer,adulto_joven,profesional,bajo ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,jefe
+pequeño,,adulto_joven,secundaria,alto ingreso,BRT,eficiente,inseguro,empleado
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,profesional,alto ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+grande,mujer,adulto_joven,profesional,alto ingreso,Taxi,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Camión,eficiente,seguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,profesional,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,vendedor_ambulante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,profesional,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+grande,mujer,adulto_joven,profesional,bajo ingreso,Automovil,eficiente,seguro,jefe
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Bicicleta,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Taxi,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Bicicleta,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,profesional,bajo ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,preescolar,bajo ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,ninguno,alto ingreso,Taxi,eficiente,seguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,ninguno,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,jefe
+grande,hombre,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,comerciante
+grande,hombre,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,empleado
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Motocicleta,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,primaria,alto ingreso,BRT,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,BRT,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preescolar,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Animal,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,profesional,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Autobús foráneo,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Camión,eficiente,seguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,jefe
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,empleado
+grande,hombre,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Mototaxi,eficiente,inseguro,comerciante
+pequeño,hombre,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Mototaxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,inseguro,jefe
+pequeño,hombre,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,seguro,jefe
+grande,hombre,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,profesional,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Bicicleta,eficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,hombre,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,inseguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Transporte eléctrico,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,ninguno,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Bicicleta,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,inseguro,empleado
+grande,hombre,adulto_joven,secundaria,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,comerciante
+grande,hombre,adulto_joven,profesional,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preescolar,alto ingreso,Camión,eficiente,seguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Bicicleta,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Autobús foráneo,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preescolar,bajo ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,jefe
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Bicicleta,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,hombre,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,seguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,profesional,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,primaria,alto ingreso,BRT,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,BRT,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,BRT,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Motocicleta,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,hombre,adulto_joven,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,profesional,alto ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Animal,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_joven,primaria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,hombre,adulto_joven,secundaria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Mototaxi,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Autobús foráneo,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,hombre,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Camión,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,ninguno,bajo ingreso,Mototaxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Mototaxi,eficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Mototaxi,eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Mototaxi,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,inseguro,servidor
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,ninguno,bajo ingreso,Mototaxi,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,profesional,bajo ingreso,Mototaxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Autobús foráneo,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Bicicleta,eficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,primaria,bajo ingreso,Camión,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Bicicleta,eficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,empleado
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,servidor
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Motocicleta,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Colectivo (Combi),eficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,inseguro,empleado
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,jefe
+pequeño,hombre,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Motocicleta,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Bicicleta,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Camión,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,inseguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,vendedor_ambulante
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,seguro,empleado
+grande,,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Transporte eléctrico,eficiente,seguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,empleado
+grande,hombre,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,jefe
+pequeño,hombre,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Camión,eficiente,seguro,servidor
+pequeño,,adulto_joven,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Mototaxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Mototaxi,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Automovil,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,seguro,empleado
+pequeño,hombre,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,seguro,vendedor_ambulante
+grande,,adulto_joven,secundaria,bajo ingreso,Autobús foráneo,eficiente,seguro,comerciante
+grande,hombre,adulto_joven,preparatoria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,primaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,ninguno,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_joven,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+grande,,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Taxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,primaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Autobús foráneo,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,hombre,adulto_mayor,ninguno,alto ingreso,Automovil,eficiente,seguro,empleado
+pequeño,mujer,adulto_joven,primaria,bajo ingreso,Camión,eficiente,seguro,empleado
+pequeño,mujer,adulto_joven,primaria,bajo ingreso,Camión,eficiente,seguro,empleado
+pequeño,,adulto_mayor,secundaria,bajo ingreso,BRT,eficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,primaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,preescolar,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Mototaxi,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Motocicleta,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Tren urbano (Metro),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Mototaxi,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,inseguro,jefe
+pequeño,hombre,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,primaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,inseguro,jefe
+grande,,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Transporte eléctrico,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,servidor
+grande,mujer,adulto_joven,primaria,alto ingreso,Motocicleta,eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Autobús foráneo,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Autobús foráneo,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,vendedor_ambulante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,profesional,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,vendedor_ambulante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,hombre,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Mototaxi,eficiente,inseguro,empleado
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,inseguro,vendedor_ambulante
+pequeño,hombre,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+grande,,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,profesional,alto ingreso,Taxi,eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+grande,,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,profesional,bajo ingreso,Colectivo (Combi),eficiente,seguro,empleado
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,eficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Automovil,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,inseguro,jefe
+grande,,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,BRT,eficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Camión,eficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,eficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,ninguno,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Motocicleta,eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Motocicleta,eficiente,seguro,empleado
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Bicicleta,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,hombre,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,vendedor_ambulante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_joven,primaria,bajo ingreso,Taxi,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,preescolar,bajo ingreso,Autobús foráneo,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,inseguro,comerciante
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,primaria,bajo ingreso,Bicicleta,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Camión,eficiente,seguro,empleado
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Camión,eficiente,seguro,jefe
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Autobús foráneo,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Mototaxi,eficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,alto ingreso,Camión,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,alto ingreso,Autobús foráneo,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,preescolar,bajo ingreso,Mototaxi,eficiente,seguro,jefe
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,servidor
+pequeño,hombre,adulto_joven,secundaria,bajo ingreso,Mototaxi,eficiente,seguro,servidor
+pequeño,hombre,adulto_joven,ninguno,alto ingreso,Colectivo (Combi),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,seguro,jefe
+pequeño,hombre,adulto_mayor,secundaria,alto ingreso,Automovil,eficiente,seguro,jefe
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+pequeño,,adulto_joven,secundaria,alto ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,eficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),eficiente,inseguro,empleado
+grande,,adulto_joven,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),eficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,eficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),eficiente,seguro,jefe
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,eficiente,seguro,jefe
+pequeño,mujer,adulto_joven,ninguno,bajo ingreso,Taxi,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,eficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,eficiente,seguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Camión,eficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,eficiente,seguro,servidor
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Automovil,eficiente,seguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,eficiente,seguro,comerciante
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Bicicleta,ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Camión,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Taxi,ineficiente,inseguro,empleado
+pequeño,hombre,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,alto ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Autobús foráneo,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,hombre,adulto_mayor,ninguno,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Camión,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Bicicleta,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Bicicleta,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Camión,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,ineficiente,seguro,empleado
+grande,mujer,adulto_joven,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Avión,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Bicicleta,ineficiente,seguro,jefe
+pequeño,,adulto_joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Bicicleta,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,primaria,alto ingreso,Bicicleta,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,alto ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,hombre,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,hombre,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Camión,ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),ineficiente,seguro,comerciante
+grande,mujer,adulto_joven,secundaria,alto ingreso,Bicicleta,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Bicicleta,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,profesional,alto ingreso,Motocicleta,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Bicicleta,ineficiente,seguro,jefe
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Autobús foráneo,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,hombre,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Motocicleta,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,hombre,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,primaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,primaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,BRT,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,vendedor_ambulante
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+grande,hombre,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,preescolar,bajo ingreso,Camión,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren,ineficiente,inseguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,hombre,adulto_joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,hombre,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,primaria,alto ingreso,Taxi,ineficiente,inseguro,comerciante
+grande,hombre,adulto_joven,preparatoria,alto ingreso,Taxi,ineficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,seguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Transporte eléctrico,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,,joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,seguro,servidor
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,ineficiente,seguro,servidor
+grande,hombre,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Mototaxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,ineficiente,seguro,servidor
+grande,,adulto_joven,secundaria,bajo ingreso,Bicicleta,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Bicicleta,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,alto ingreso,Camión,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,seguro,servidor
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Bicicleta,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Bicicleta,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Taxi,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Tren,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Motocicleta,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,BRT,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Bicicleta,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Bicicleta,ineficiente,inseguro,servidor
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Bicicleta,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,preescolar,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Taxi,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,seguro,jefe
+grande,mujer,adulto_mayor,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,,adulto_joven,secundaria,bajo ingreso,Bicicleta,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Camión,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Bicicleta,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,seguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Autobús foráneo,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Camión,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Tren urbano (Metro),ineficiente,seguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,seguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Mototaxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Mototaxi,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Avión,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,seguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,primaria,bajo ingreso,Camión,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Bicicleta,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Bicicleta,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Taxi,ineficiente,seguro,comerciante
+grande,hombre,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,hombre,adulto_mayor,profesional,alto ingreso,Taxi,ineficiente,inseguro,jefe
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,secundaria,alto ingreso,Motocicleta,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Colectivo (Combi),ineficiente,seguro,empleado
+pequeño,hombre,adulto_joven,secundaria,bajo ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Camión,ineficiente,inseguro,servidor
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,profesional,alto ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,seguro,jefe
+grande,mujer,adulto_joven,preescolar,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,profesional,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,,joven,secundaria,bajo ingreso,Automovil,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,primaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,ineficiente,seguro,servidor
+pequeño,mujer,adulto_joven,profesional,alto ingreso,Taxi,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,BRT,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,ineficiente,inseguro,empleado
+pequeño,hombre,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,empleado
+pequeño,hombre,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,comerciante
+pequeño,hombre,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,preparatoria,bajo ingreso,Colectivo (Combi),ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Taxi,ineficiente,inseguro,vendedor_ambulante
+grande,hombre,adulto_joven,secundaria,alto ingreso,Taxi,ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,BRT,ineficiente,seguro,empleado
+grande,mujer,adulto_joven,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,hombre,adulto_mayor,secundaria,alto ingreso,Autobús foráneo,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,alto ingreso,Bicicleta,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Patineta,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_joven,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Motocicleta,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,primaria,bajo ingreso,Bicicleta,ineficiente,inseguro,comerciante
+grande,,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,seguro,comerciante
+pequeño,mujer,adulto_joven,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,seguro,jefe
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Bicicleta,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Bicicleta,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,ninguno,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Tren urbano (Metro),ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,comerciante
+grande,,adulto_mayor,secundaria,alto ingreso,Camión,ineficiente,inseguro,jefe
+grande,,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Bicicleta,ineficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,profesional,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_joven,preparatoria,bajo ingreso,Taxi,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Camión,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,primaria,alto ingreso,Camión,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Bicicleta,ineficiente,inseguro,comerciante
+pequeño,mujer,adulto_mayor,ninguno,alto ingreso,Automovil,ineficiente,seguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,primaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Colectivo (Combi),ineficiente,inseguro,comerciante
+grande,,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_joven,primaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Taxi,ineficiente,seguro,comerciante
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Taxi,ineficiente,seguro,jefe
+grande,,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,preescolar,alto ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,seguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Colectivo (Combi),ineficiente,seguro,servidor
+grande,,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,ninguno,bajo ingreso,Camión,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,hombre,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,bajo ingreso,Colectivo (Combi),ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,servidor
+grande,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,seguro,jefe
+grande,mujer,adulto_mayor,ninguno,alto ingreso,Automovil,ineficiente,inseguro,vendedor_ambulante
+grande,mujer,adulto_mayor,preparatoria,bajo ingreso,Taxi,ineficiente,inseguro,comerciante
+pequeño,,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,primaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,empleado
+pequeño,mujer,adulto_mayor,preparatoria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,jefe
+pequeño,mujer,adulto_mayor,ninguno,alto ingreso,Autobús foráneo,ineficiente,inseguro,servidor
+pequeño,hombre,adulto_mayor,secundaria,bajo ingreso,Camión,ineficiente,inseguro,servidor
+pequeño,hombre,adulto_joven,secundaria,bajo ingreso,Motocicleta,ineficiente,seguro,empleado
+pequeño,hombre,adulto_mayor,secundaria,bajo ingreso,Taxi,ineficiente,seguro,empleado
+grande,,adulto_joven,secundaria,bajo ingreso,Automovil,ineficiente,inseguro,comerciante
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,empleado
+grande,mujer,adulto_joven,preparatoria,alto ingreso,Taxi,ineficiente,inseguro,jefe
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Automovil,ineficiente,inseguro,servidor
+pequeño,mujer,adulto_mayor,primaria,alto ingreso,Taxi,ineficiente,seguro,servidor
+grande,mujer,adulto_mayor,secundaria,alto ingreso,Tren urbano (Metro),ineficiente,seguro,servidor
