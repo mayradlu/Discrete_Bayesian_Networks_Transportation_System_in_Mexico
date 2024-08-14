@@ -1,18 +1,17 @@
-![imagen](https://github.com/user-attachments/assets/14874765-31ca-415e-9ed5-5fd67ed502fe)# Discrete Bayesian Networks Transportation System in Mexico
+# Discrete Bayesian Networks Transportation System in Mexico
 ## General Information
-This project aims to analyze the transportation system in Mexico using Bayesian networks to identify the means of transportation most used by the population and evaluate their level of satisfaction in terms of safety and efficiency. Using the database provided by the National Mobility and Transportation Survey of the Institute of Legal Research of UNAM, various stages of preprocessing, modeling and analysis were carried out to obtain significant insights.
+This project aims to analyze the transportation system in Mexico using Bayesian networks to identify the means of transportation most used by the population and evaluate their level of satisfaction in terms of safety and efficiency. Using the database provided by the [National Mobility and Transportation Survey of the Institute of Legal Research of UNAM](http://www.losmexicanos.unam.mx/movilidadytransporte/encuesta_nacional.html), various stages of preprocessing, modeling and analysis were carried out to obtain significant insights.
 
 ## Project Structure
-
 **Data Preprocessing**
-Python
-
 Python was used to clean and prepare the database, ensuring that the data was in a suitable format for subsequent analysis with Bayesian networks.
 
 **Modeling with Bayesian Networks**
-R
+R was used to create 3 Directed Acyclic Graphs (DAGs) and evaluate their performance using BIC and AIC criteria. The model that best fit the data was selected to infer probabilities and analyze dependencies between key variables.
+![imagen](https://github.com/user-attachments/assets/db992e37-08e6-4028-9d21-daa2997cc3e0)
 
-R was used to create Directed Acyclic Graphs (DAGs) and evaluate their performance using BIC and AIC criteria. The model that best fit the data was selected to infer probabilities and analyze dependencies between key variables.
+## Results
+This is an example of the queries made to the DAGs in order to respond to probabilities for certain events.
+![imagen](https://github.com/user-attachments/assets/a76204b3-a387-4c47-8010-86211b0ec7ff)
 
 
-[holis](http://www.losmexicanos.unam.mx/movilidadytransporte/encuesta_nacional.html)
