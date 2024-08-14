@@ -9,7 +9,7 @@ Python was used to clean and prepare the database, ensuring that the data was in
 **Modeling with Bayesian Networks**
 R was used to create 3 Directed Acyclic Graphs (DAGs) and evaluate their performance using BIC and AIC criteria. The model that best fit the data was selected to infer probabilities and analyze dependencies between key variables.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db992e37-08e6-4028-9d21-daa2997cc3e0" alt="imagen">
+  <img src="https://github.com/user-attachments/assets/0a1d7a7b-1dec-4a39-a2fb-f3408313d54d" alt="imagen">
 </p>
 
 ## Results
