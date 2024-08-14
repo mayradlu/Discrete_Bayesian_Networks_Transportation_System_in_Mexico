@@ -14,7 +14,7 @@ R was used to create 3 Directed Acyclic Graphs (DAGs) and evaluate their perform
 
 ## Results
 This is an example of the queries made to the DAGs in order to respond to probabilities for certain events. "What is the probability that a person travels by train, given that they are a street vendor?"
-<p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/9d640a7a-2146-42d8-8507-51c23ca97675" alt="imagen" width="600">
 </p>
 
