@@ -14,6 +14,9 @@ R was used to create 3 Directed Acyclic Graphs (DAGs) and evaluate their perform
 
 ## Results
 This is an example of the queries made to the DAGs in order to respond to probabilities for certain events.
-![imagen](https://github.com/user-attachments/assets/7170c809-fa76-4472-9652-8000a391cabf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d640a7a-2146-42d8-8507-51c23ca97675" alt="imagen" width="400">
+</p>
+
 
 
